@@ -54,8 +54,8 @@
 		FD08DC9121486CCA00EF111C /* Todoey */ = {
 			isa = PBXGroup;
 			children = (
-				FD4CB1A5214991FD002AAC55 /* TodoListViewController.swift */,
 				FD08DC9221486CCA00EF111C /* AppDelegate.swift */,
+				FD4CB1A5214991FD002AAC55 /* TodoListViewController.swift */,
 				FD08DC9621486CCA00EF111C /* Main.storyboard */,
 				FD08DC9921486CCF00EF111C /* Assets.xcassets */,
 				FD08DC9B21486CD000EF111C /* LaunchScreen.storyboard */,
